@@ -1,8 +1,8 @@
 {
    "packages":[
       {
-         "name":"AntBlePlatform",
-         "maintainer":"ALeibbrandt",
+          "name":"RFduino",
+         "maintainer":"RFduino",
          "websiteURL":"http://www.rfduino.com",
          "email":"support@rfduino.com",
          "help":{
