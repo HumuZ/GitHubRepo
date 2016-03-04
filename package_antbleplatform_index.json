@@ -1,0 +1,55 @@
+{
+   "packages":[
+      {
+         "name":"AntBlePlatform",
+         "maintainer":"ALeibbrandt",
+         "websiteURL":"http://www.rfduino.com",
+         "email":"support@rfduino.com",
+         "help":{
+            "online":"http://forum.rfduino.com"
+         },
+         "platforms":[
+            {
+               "name": "ANT BLE Platform Boards",
+               "architecture": "AntBlePlatformA",
+               "version": "1.0.0",
+               "category": "AntBlePlatform",
+               "url": "file://C:/Users/Alexis/OneDrive/Documents/IoT_project/Firmware/arduino_firmware/AntBlePlatform.zip",
+               "archiveFileName": "AntBlePlatform.zip",
+               "checksum": "SHA-256:65f6142788e0d43dc5e10027b1eb8e90af7ef24566443cd8fd1c8b8930313b69",
+               "size": "127138246",
+               "help":{
+                  "online":"http://forum.rfduino.com"
+               },
+               "boards": [
+                  {
+                     "name": "AntBlePlatformA"
+                  }
+               ],
+               "toolsDependencies": [
+                  {
+                     "packager": "AntBlePlatform",
+                     "name": "arm-none-eabi-gcc",
+                     "version": "4.8.3-2014q1"
+                  }
+               ]
+            }
+         ],
+      	"tools":[
+            {
+               "name":"arm-none-eabi-gcc",
+               "version":"4.8.3-2014q1",
+               "systems":[
+                  {
+                     "host":"i686-mingw32",
+                     "archiveFileName":"gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+                     "url":"http://downloads.arduino.cc/gcc-arm-none-eabi-4.8.3-2014q1-windows.tar.gz",
+                     "checksum":"SHA-256:fd8c111c861144f932728e00abd3f7d1107e186eb9cd6083a54c7236ea78b7c2",
+                     "size":"84537449"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
