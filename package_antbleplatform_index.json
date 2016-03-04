@@ -3,10 +3,10 @@
       {
          "name":"AntBlePlatform",
          "maintainer":"ALeibbrandt",
-         "websiteURL":"http://www.rfduino.com",
-         "email":"support@rfduino.com",
+         "websiteURL":"http://www.skipass.com",
+         "email":"a.leib@citycable.ch",
          "help":{
-            "online":"http://forum.rfduino.com"
+            "online":"http://www.skipass.com"
          },
          "platforms":[
             {
@@ -19,7 +19,7 @@
                "checksum": "SHA-256:65f6142788e0d43dc5e10027b1eb8e90af7ef24566443cd8fd1c8b8930313b69",
                "size": "127138246",
                "help":{
-                  "online":"http://forum.rfduino.com"
+                  "online":"http://www.skipass.com"
                },
                "boards": [
                   {
